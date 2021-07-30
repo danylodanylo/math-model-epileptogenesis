@@ -1,3 +1,1 @@
-The SeparatrixLine.npy was included in the code repository for convenience of the user. 
-Production of separatrix line data requires running 170x170 simulations, which takes considerable amount of time. 
-However, code (DataGeneration_F1b_Separatrix.ipynb), necessary for this simulation, is also included and SeparatrixLine.npy can be generated anew.}
+The SeparatrixLine.npy was included in the code repository for convenience of the user. Production of separatrix line data requires running 170x170 simulations, which takes considerable amount of time. However, code (DataGeneration_F1b_Separatrix.ipynb), necessary for this simulation, is also included and SeparatrixLine.npy can be generated anew.}
