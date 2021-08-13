@@ -8,10 +8,10 @@ Figures production scripts (“FigureProduction_N”) are consistent with the nu
 
 DataGenerationScripts folder also contains auxiliary scripts that will be used by “FigureProduction_N” scripts.
 
-Parameters of the model can be found in “DataGenerationScripts/load_default_parameters.ipynb” and Appendix 4.
+Parameters of the model can be found in “DataGenerationScripts/load_default_parameters.ipynb” and Suppl. 4.
 
-Simulation-specific parameters can be found in data generation scripts and summarized in Appendix 5.
+Simulation-specific parameters can be found in data generation scripts and summarized in Suppl. 5.
 
-Data from animal model studies can be found in “DataGenerationScripts/load_animal_model_data.ipynb” and summarized in Appendix 6. 
+Data from animal model studies can be found in “DataGenerationScripts/load_animal_model_data.ipynb” and summarized in Suppl. 6. 
 
-Scripts used in the analysis of the dynamical system (Appendix 3; Appendix 7) can be found in the “AnalysisScipts” folder.
+Scripts used in the analysis of the dynamical system (Suppl. 3; Suppl. 8) can be found in the “AnalysisScipts” folder.
