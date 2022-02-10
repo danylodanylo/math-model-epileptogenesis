@@ -1,6 +1,6 @@
 # math-model-epileptogenesis
 
-All materials contained in this repository are complementary to the manuscript "A mathematical model of neuroimmune interactions in epileptogenesis: a new tool for discovering treatment strategies _in silico_" written by Danylo Batulin, Fereshteh Lagzi, Annamaria Vezzani, Peter Jedlicka and Jochen Triesch.
+All materials contained in this repository are complementary to the manuscript 'A mathematical model of neuroimmune interactions in epileptogenesis for discovering treatment strategies' written by Danylo Batulin, Fereshteh Lagzi, Annamaria Vezzani, Peter Jedlicka and Jochen Triesch.
 
 All scripts are written as Jupyter notebooks in Python version 3.7.4.
 
