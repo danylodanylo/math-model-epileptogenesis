@@ -4,6 +4,8 @@ All materials contained in this repository are complementary to the manuscript '
 
 All scripts are written as Jupyter notebooks in Python version 3.7.4.
 
+[![DOI](https://zenodo.org/badge/379628579.svg)](https://zenodo.org/badge/latestdoi/379628579)
+
 Figures production scripts (“FigureProduction_F...” and "Suppl_FigureProduction_FS...") are consistent with the numbering of the figures in the manuscript. Data is not uploaded to GitHub and can be generated directly (by running scripts in “DataGenerationScripts” folder). Alternatively, running figure production scripts will create corresponding data folders and execute the data generation scripts before figure production. Figures will be saved in a corresponding folder “Figures/Fig...”. After being generated, data will not be re-generated in case the figure production script is executed again.
 
 DataGenerationScripts folder also contains auxiliary scripts.
